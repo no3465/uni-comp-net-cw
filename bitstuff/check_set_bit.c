@@ -1,7 +1,7 @@
 // check if the kth bit of an integer (uint32_t) is set
 #include <stdio.h>
 #include <stdlib.h>
-#include "helper.h"
+
 
 typedef unsigned int uint;
 
